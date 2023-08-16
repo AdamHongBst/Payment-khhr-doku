@@ -10,8 +10,9 @@
 
 ### 资料
 
-[支付接口文档](http://developer.lightspeedtransfer.com/apiDocs/web/#/616175687/266264116)
-
+[支付接口文档](http://developer.lightspeedtransfer.com/apiDocs/web/#/616175687/266264116)</br>
+[DOKU测试环境接口文档](https://dashboard.doku.com/docs/docs/jokul-direct/virtual-account/virtual-account-overview)</br>
+[DOKU测试环境沙盒](https://sandbox.doku.com/bo/dashboard)
 
 ### 会议和沟通记录
 沟通时间：
